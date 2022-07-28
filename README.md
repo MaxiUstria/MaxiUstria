@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Maximiliano Ustria</h1>
-<h3 align="center">A passionate Ruby on Rails Tech Lead from Uruguay</h3>
+<h3 align="center">A passionate Ruby on Rails Developer from Uruguay</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maxiustria&label=Profile%20views&color=0e75b6&style=flat" alt="maxiustria" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maxiustria" alt="maxiustria" /></a> </p>
 
-- 🔭 I’m currently working at **Altimetrik**
+- 🔭 I’m currently working at **Sonarafy**
 
-- 🌱 I’m currently learning **Solidity**
+- 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **maximilianoustria@gmail.com**
 

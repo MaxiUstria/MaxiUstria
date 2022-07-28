@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maxiustria" alt="maxiustria" /></a> </p>
 
-- 🔭 I’m currently working at **Sonarafy**
+- 🔭 I’m currently working at **Sonatafy**
 
 - 🌱 I’m currently learning **Flutter**
 

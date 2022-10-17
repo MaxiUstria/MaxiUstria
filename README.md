@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working at **Sonatafy**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Unreal Engine 5**
 
 - 📫 How to reach me **maximilianoustria@gmail.com**
 
